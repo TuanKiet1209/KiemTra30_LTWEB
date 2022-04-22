@@ -1,0 +1,8 @@
+C:\Users\Kiet\Downloads\KiemTra30_LTWEB-main\KiemTra30_LTWEB\obj\Debug\net6.0\LeTangHuyTuanKiet.csproj.AssemblyReference.cache
+C:\Users\Kiet\Downloads\KiemTra30_LTWEB-main\KiemTra30_LTWEB\obj\Debug\net6.0\LeTangHuyTuanKiet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kiet\Downloads\KiemTra30_LTWEB-main\KiemTra30_LTWEB\obj\Debug\net6.0\LeTangHuyTuanKiet.AssemblyInfoInputs.cache
+C:\Users\Kiet\Downloads\KiemTra30_LTWEB-main\KiemTra30_LTWEB\obj\Debug\net6.0\LeTangHuyTuanKiet.AssemblyInfo.cs
+C:\Users\Kiet\Downloads\KiemTra30_LTWEB-main\KiemTra30_LTWEB\obj\Debug\net6.0\LeTangHuyTuanKiet.csproj.CoreCompileInputs.cache
+C:\Users\Kiet\Downloads\KiemTra30_LTWEB-main\KiemTra30_LTWEB\obj\Debug\net6.0\LeTangHuyTuanKiet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kiet\Downloads\KiemTra30_LTWEB-main\KiemTra30_LTWEB\obj\Debug\net6.0\LeTangHuyTuanKiet.RazorAssemblyInfo.cache
+C:\Users\Kiet\Downloads\KiemTra30_LTWEB-main\KiemTra30_LTWEB\obj\Debug\net6.0\LeTangHuyTuanKiet.RazorAssemblyInfo.cs

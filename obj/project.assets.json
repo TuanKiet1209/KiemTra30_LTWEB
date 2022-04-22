@@ -9816,24 +9816,31 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\PDH\\.nuget\\packages\\": {}
+    "C:\\Users\\Kiet\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\P06_119000327_LeTangHuyTuanKiet\\LeTangHuyTuanKiet\\LeTangHuyTuanKiet.csproj",
+      "projectUniqueName": "C:\\Users\\Kiet\\Downloads\\KiemTra30_LTWEB-main\\KiemTra30_LTWEB\\LeTangHuyTuanKiet.csproj",
       "projectName": "LeTangHuyTuanKiet",
-      "projectPath": "D:\\P06_119000327_LeTangHuyTuanKiet\\LeTangHuyTuanKiet\\LeTangHuyTuanKiet.csproj",
-      "packagesPath": "C:\\Users\\PDH\\.nuget\\packages\\",
-      "outputPath": "D:\\P06_119000327_LeTangHuyTuanKiet\\LeTangHuyTuanKiet\\obj\\",
+      "projectPath": "C:\\Users\\Kiet\\Downloads\\KiemTra30_LTWEB-main\\KiemTra30_LTWEB\\LeTangHuyTuanKiet.csproj",
+      "packagesPath": "C:\\Users\\Kiet\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Kiet\\Downloads\\KiemTra30_LTWEB-main\\KiemTra30_LTWEB\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\PDH\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Kiet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
